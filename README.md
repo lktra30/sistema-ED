@@ -54,7 +54,7 @@ Exibe um menu interativo no console, permitindo realizar operações no sistema 
 A função utiliza a classe FilaAtendimento e seus métodos para manipular a fila conforme as escolhas do usuário.
 
 ## Funcionamento
-- Inicialização: O programa começa criando uma instância de FilaAtendimento e adicionando alguns 12 pacientes de exemplo para teste de funcionalidade
+- Inicialização: O programa começa criando uma instância de FilaAtendimento e adicionando 12 pacientes de exemplo para teste de funcionalidade
 - Menu Interativo: O usuário pode escolher entre as opções do menu para manipular a fila.
 - Adição de Pacientes: Pacientes são inseridos na fila conforme sua prioridade.
 - Remoção de Pacientes: A remoção alterna entre pacientes prioritários e normais, simulando um atendimento, conforme a quantidade de cada tipo na fila.
